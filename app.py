@@ -36,14 +36,14 @@ PRODUCTS = [
         "description": "Full access to Mines predictor",
         "emoji": "<:BombShock:1499540896658755834>",
         "ticket_name": "mines",
-        "price": "250 Robux"
+        "price": "350 Robux"
     },
     {
         "label": "Mines + Towers",
         "description": "Full bundle access",
         "emoji": "<:Bloxflip:1499540517183033504>",
         "ticket_name": "bundle",
-        "price": "350 Robux"
+        "price": "500 Robux"
     },
     {
         "label": "User Sniper",
